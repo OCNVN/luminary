@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Alicia.X</Source>
+      <Name>Alicia</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Alicia.xnb</Output>
+      <Time>2011-05-01T21:27:52.7297416-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Alicia_0.xml</Key>
+        <Value>2011-07-02T19:22:46.6840778-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\DIFFUSE_0.xnb</Request>
+      <Request>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\SkinnedModel.xnb</Request>
+      <Request>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\O_ADA_O_0.xnb</Request>
+      <Request>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Hair_diffus_0.xnb</Request>
+      <Request>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\eye_diffuse_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>SkinnedModel.fx</Source>
+      <Name>SkinnedModel</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\SkinnedModel.xnb</Output>
+      <Time>2011-04-23T21:48:46.1256976-05:00</Time>
+    </Item>
+    <Item>
+      <Source>diffuse.jpg</Source>
+      <Name>diffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\diffuse.xnb</Output>
+      <Time>2011-04-23T21:48:45.5286634-05:00</Time>
+    </Item>
+    <Item>
+      <Source>eye_diffuse.jpg</Source>
+      <Name>eye_diffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\eye_diffuse.xnb</Output>
+      <Time>2011-04-23T21:48:45.5776662-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GolubkHairMask.jpg</Source>
+      <Name>GolubkHairMask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\GolubkHairMask.xnb</Output>
+      <Time>2011-04-23T21:48:45.6356695-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Hair_diffus.jpg</Source>
+      <Name>Hair_diffus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Hair_diffus.xnb</Output>
+      <Time>2011-04-23T21:48:45.9676885-05:00</Time>
+    </Item>
+    <Item>
+      <Source>o_ada_o.bmp</Source>
+      <Name>o_ada_o</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\o_ada_o.xnb</Output>
+      <Time>2011-04-23T21:48:46.0856953-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spec_lev.jpg</Source>
+      <Name>spec_lev</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\spec_lev.xnb</Output>
+      <Time>2011-04-23T21:48:46.2057021-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Alicia.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Alicia_0.xml</Output>
+      <Time>2011-05-01T21:27:52.7297416-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DIFFUSE.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\DIFFUSE_0.xnb</Output>
+      <Time>2011-04-23T21:48:45.5286634-05:00</Time>
+    </Item>
+    <Item>
+      <Source>O_ADA_O.BMP</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\O_ADA_O_0.xnb</Output>
+      <Time>2011-04-23T21:48:46.0856953-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Hair_diffus.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Hair_diffus_0.xnb</Output>
+      <Time>2011-04-23T21:48:45.9676885-05:00</Time>
+    </Item>
+    <Item>
+      <Source>eye_diffuse.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\eye_diffuse_0.xnb</Output>
+      <Time>2011-04-23T21:48:45.5776662-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll</Key>
+        <Value>2011-05-01T21:30:14.8898726-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-01T23:59:25.1188525-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Texturas\AliciaDifusse.jpg</Source>
+      <Name>Texturas\AliciaDifusse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb</Output>
+      <Time>2009-12-26T21:13:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Texturas\AliciaSpecular.jpg</Source>
+      <Name>Texturas\AliciaSpecular</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb</Output>
+      <Time>2009-12-26T21:15:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Arial.spritefont</Source>
+      <Name>Fuentes\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Arial.xnb</Output>
+      <Time>2009-12-29T09:06:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Calibri.spritefont</Source>
+      <Name>Fuentes\Calibri</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Calibri.xnb</Output>
+      <Time>2009-12-29T09:06:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\Alicia.X</Source>
+      <Name>Modelos\Alicia</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Alicia.xnb</Output>
+      <Time>2011-04-05T08:41:23.5272065-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\Alicia_0.xml</Key>
+        <Value>2011-07-02T19:23:38.386035-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\diffuse_0.xnb</Request>
+      <Request>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\o_ada_o_0.xnb</Request>
+      <Request>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Hair_diffus_0.xnb</Request>
+      <Request>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\eye_diffuse_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Efectos\AnimatedModel.fx</Source>
+      <Name>Efectos\AnimatedModel</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Efectos\AnimatedModel.xnb</Output>
+      <Time>2009-02-07T23:17:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\Alicia.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\Alicia_0.xml</Output>
+      <Time>2011-04-05T08:41:23.5272065-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\diffuse.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\diffuse_0.xnb</Output>
+      <Time>2009-12-26T21:13:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\o_ada_o.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\o_ada_o_0.xnb</Output>
+      <Time>2008-12-20T22:07:34.328125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\Hair_diffus.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Hair_diffus_0.xnb</Output>
+      <Time>2010-02-03T23:30:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\eye_diffuse.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\eye_diffuse_0.xnb</Output>
+      <Time>2009-12-26T21:12:38-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\x86\Debug\XNAnimationPipeline.dll</Key>
+        <Value>2011-04-30T19:36:26.9201692-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-01T23:59:25.1188525-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

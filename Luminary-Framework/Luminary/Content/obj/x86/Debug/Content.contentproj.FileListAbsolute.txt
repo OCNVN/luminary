@@ -1,0 +1,7 @@
+C:\CarlosEstudiaXNA\Capitulo X\Luminary\Luminary\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\Content\obj\x86\Debug\ResolveAssemblyReference.cache

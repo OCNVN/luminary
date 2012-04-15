@@ -1,0 +1,102 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+		xmlns:AvalonDock="clr-namespace:AvalonDock;assembly=AvalonDock"
+        xmlns:Aprendiendo_luminary="clr-namespace:Aprendiendo.luminary" 
+        xmlns:ACT="clr-namespace:Aprendiendo.controles.teclado"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+    xmlns:Aprendiendo="clr-namespace:Aprendiendo"
+    x:Class="Aprendiendo.ControlVocabulario"
+    Height="Auto" Width="Auto" 
+    BorderBrush="{x:Null}" xmlns:LuminaryFramework="clr-namespace:LuminaryFramework;assembly=LuminaryFramework" >
+	<UserControl.Resources>
+		<Aprendiendo_luminary:JuegoImageConverter x:Key="imageConverter" />
+	</UserControl.Resources>
+    <Grid Width="Auto">
+    	<Grid.RowDefinitions>
+    		<RowDefinition Height="25"/>
+    		<RowDefinition Height="*"/>
+    		<RowDefinition Height="130"/>
+    	</Grid.RowDefinitions>
+
+
+
+
+
+
+    	<Grid.ColumnDefinitions>
+    		<ColumnDefinition Width="0.6*"/>
+    		<ColumnDefinition Width="0.4*"/>
+    	</Grid.ColumnDefinitions>
+    	<Border BorderBrush="#FF292929" Margin="0,0,5,0" BorderThickness="0,0,0,1" CornerRadius="5,5,0,0">
+    		<Border.Background>
+    			<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+    				<GradientStop Color="#FFC2C2C2" Offset="0"/>
+    				<GradientStop Color="#FF888888" Offset="1"/>
+    			</LinearGradientBrush>
+    		</Border.Background>
+    	</Border>
+
+
+
+
+
+
+    	<!--<AvalonDock:DockingManager HorizontalAlignment="Right" Margin="0,0,4,158" Width="361">
+    		<AvalonDock:DockablePane Cursor="Cross">
+    			<AvalonDock:DockableContent Title="Alicia" Cursor="Cross">
+    				<LuminaryFramework:Luminary x:Name="alicia3D"/>
+    			</AvalonDock:DockableContent>
+    		</AvalonDock:DockablePane>
+    	</AvalonDock:DockingManager>-->
+    	<Label HorizontalAlignment="Left" Margin="10,0,0,0" Width="Auto" Content="Introduzca el texto" FontFamily="Calibri" FontSize="14" RenderTransformOrigin="0.253,0.429" FontWeight="Normal" Foreground="#FFFFFFFF" VerticalAlignment="Center"/>
+    	<ACT:Teclado  Margin="0,10,0,0" x:Name="teclado"
+    		QClick="btnTeclado_Click" WClick="btnTeclado_Click" EClick="btnTeclado_Click" RClick="btnTeclado_Click"
+    		TClick="btnTeclado_Click" YClick="btnTeclado_Click" UClick="btnTeclado_Click" IClick="btnTeclado_Click"
+    		OClick="btnTeclado_Click" PClick="btnTeclado_Click" AClick="btnTeclado_Click" SClick="btnTeclado_Click"
+    		DClick="btnTeclado_Click" FClick="btnTeclado_Click" GClick="btnTeclado_Click" HClick="btnTeclado_Click"
+    		JClick="btnTeclado_Click" KClick="btnTeclado_Click" LClick="btnTeclado_Click" ZClick="btnTeclado_Click"
+    		XClick="btnTeclado_Click" CClick="btnTeclado_Click" VClick="btnTeclado_Click" BClick="btnTeclado_Click"
+    		NClick="btnTeclado_Click" MClick="btnTeclado_Click" HorizontalAlignment="Left" Width="365" Grid.Row="2" VerticalAlignment="Top" Height="100" d:LayoutOverrides="VerticalAlignment" />
+    	<TextBox AcceptsReturn="True" x:Name="txtIngresar" TextWrapping="Wrap" FontSize="12" Foreground="#FF000000" Text="{Binding Path=textoFrase, Mode=TwoWay}" AllowDrop="False" Margin="0,0,5,0" BorderBrush="#FFCCCCCC" Grid.Row="1" Background="#FFFFFFFF" FontFamily="Verdana" BorderThickness="1,0,1,1"/>
+            
+    	<Button Margin="396,45.059,0,0" x:Name="btnTraducir" Content="Traducir" Click="btnTraducir_Click" Grid.Row="2" RenderTransformOrigin="-0.418,-0.543" d:LayoutOverrides="HorizontalAlignment, VerticalAlignment, GridBox" HorizontalAlignment="Left" VerticalAlignment="Top" Height="62.941" Width="65.047" Grid.Column="0" />
+    	<Grid x:Name="ColumnaDerecha" Margin="0" Grid.Column="1" Grid.RowSpan="3" MinWidth="100">
+		<Grid.RowDefinitions>
+    		<RowDefinition Height="25"/>
+    		<RowDefinition/>
+    		<RowDefinition MaxHeight="150" Height="Auto"/>
+    	</Grid.RowDefinitions>
+    		<Expander x:Name="expanderControl3D" Margin="0" Header="Controlar vista" Grid.Row="2" MaxHeight="150" d:LayoutOverrides="Height" Style="{DynamicResource EstiloExpander}">
+    			<Grid>
+    				<Aprendiendo:Controles3D Margin="0" Height="Auto" VerticalAlignment="Stretch" x:Name="controles3D" BorderThickness="0" BorderBrush="#FF000000"/>
+    			</Grid>
+    		</Expander>
+    		<LuminaryFramework:Luminary x:Name="modelo3D" Margin="0,2,0,-2" Grid.Row="1"/>
+            
+    		<Border BorderBrush="#FF292929" Margin="0" BorderThickness="0,0,0,1" CornerRadius="5,5,0,0">
+    			<Border.Background>
+    				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+    					<GradientStop Color="#FFC2C2C2" Offset="0"/>
+    					<GradientStop Color="#FF888888" Offset="1"/>
+    				</LinearGradientBrush>
+    			</Border.Background>
+    		</Border>
+
+
+
+
+
+
+<!--<AvalonDock:DockingManager HorizontalAlignment="Right" Margin="0,0,4,158" Width="361">
+    		<AvalonDock:DockablePane Cursor="Cross">
+    			<AvalonDock:DockableContent Title="Alicia" Cursor="Cross">
+    				<LuminaryFramework:Luminary x:Name="alicia3D"/>
+    			</AvalonDock:DockableContent>
+    		</AvalonDock:DockablePane>
+    	</AvalonDock:DockingManager>-->
+    		<Label Margin="0" Width="Auto" Content="Alicia" FontFamily="Calibri" FontSize="14" RenderTransformOrigin="0.253,0.429" FontWeight="Normal" Foreground="#FFFFFFFF"/>
+    	</Grid>
+            
+    </Grid>
+</UserControl>

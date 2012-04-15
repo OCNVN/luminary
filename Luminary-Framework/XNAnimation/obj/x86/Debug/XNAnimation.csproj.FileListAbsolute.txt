@@ -1,0 +1,50 @@
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimation\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimation\bin\x86\Debug\XNAnimation.dll
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimation\bin\x86\Debug\XNAnimation.pdb
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimation\obj\x86\Debug\XNAnimation.dll
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimation\obj\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\XNAnimation\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\XNAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\XNAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.XML
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.dll
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.dll
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\bin\x86\Debug\XNAnimation.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\obj\x86\Debug\XNAnimation.pdb

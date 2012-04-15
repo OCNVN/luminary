@@ -1,0 +1,92 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="Aprendiendo.controles.teclado.Teclado"
+	x:Name="UserControl"
+	Width="366" Height="100" 
+    xmlns:ACT="clr-namespace:Aprendiendo.controles.teclado">
+
+	<Grid x:Name="LayoutRoot">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="0.33*"/>
+			<RowDefinition Height="0.33*"/>
+			<RowDefinition Height="0.33*"/>
+		</Grid.RowDefinitions>
+		<Grid Margin="0,0,0,0" Width="340" HorizontalAlignment="Left">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+			</Grid.ColumnDefinitions>
+			<ACT:BotonTeclado Margin="2,2,2,2" Width="Auto" Height="Auto" x:Name="botonQ" texto="Q"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonW" texto="W" Grid.Column="1"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonE" texto="E" Grid.Column="2"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonR" texto="R" Grid.Column="3"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonT" texto="T" Grid.Column="4"/>
+			<ACT:BotonTeclado RenderTransformOrigin="0.319,0.525" Margin="2,2,2,2" x:Name="botonY" texto="Y" Width="Auto" Grid.Column="5"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonU" texto="U" Grid.Column="6"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonI" texto="I" Grid.Column="7"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonO" texto="O" Grid.Column="8"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonP" texto="P" Grid.Column="9"/>
+		</Grid>
+		<Grid Margin="10,0,0,0" VerticalAlignment="Stretch" Height="Auto" Grid.Row="1" Width="306" HorizontalAlignment="Left">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+			</Grid.ColumnDefinitions>
+			<ACT:BotonTeclado Margin="2,2,2,2" Height="Auto" x:Name="botonA" texto="A" Grid.Column="0" Width="Auto"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonS" texto="S" Height="Auto" Grid.Column="1" Width="Auto"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonD" texto="D" Height="Auto" Grid.Column="2" Width="Auto"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonF" texto="F" Height="Auto" Grid.Column="3" Width="Auto"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" Width="Auto" x:Name="botonG" texto="G" Height="Auto" Grid.Column="4"/>
+			<ACT:BotonTeclado RenderTransformOrigin="0.319,0.525" Margin="2,2,2,2" x:Name="botonH" texto="H" Height="Auto" Grid.Column="5" Width="Auto"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonJ" texto="J" Height="Auto" Grid.Column="6" Width="Auto"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonK" texto="K" Height="Auto" Grid.Column="7"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonL" texto="L" Height="Auto" d:LayoutOverrides="HorizontalAlignment, GridBox" Grid.Column="8" RenderTransformOrigin="-2.772,0.627" Grid.Row="0">
+				<ACT:BotonTeclado.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform ScaleX="1" ScaleY="1"/>
+						<SkewTransform AngleX="0" AngleY="0"/>
+						<RotateTransform Angle="0"/>
+						<TranslateTransform X="0" Y="0"/>
+					</TransformGroup>
+				</ACT:BotonTeclado.RenderTransform>
+			</ACT:BotonTeclado>
+		</Grid>
+		<Grid Margin="30,0,0,0" Grid.Row="2" Width="238" HorizontalAlignment="Left">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+				<ColumnDefinition Width="0.1*"/>
+			</Grid.ColumnDefinitions>
+			<ACT:BotonTeclado Margin="2,2,2,2" Width="Auto" HorizontalAlignment="Stretch" x:Name="botonZ" texto="Z"/>
+			<ACT:BotonTeclado HorizontalAlignment="Stretch" Margin="2,2,2,2" Width="Auto" x:Name="botonX" texto="X" Grid.Column="1"/>
+			<ACT:BotonTeclado HorizontalAlignment="Stretch" Margin="2,2,2,2" Width="Auto" x:Name="botonC" texto="C" Grid.Column="2"/>
+			<ACT:BotonTeclado HorizontalAlignment="Stretch" Margin="2,2,2,2" Width="Auto" x:Name="botonV" texto="V" Grid.Column="3"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" Width="Auto" x:Name="botonB" texto="B" HorizontalAlignment="Stretch" Grid.Column="4"/>
+			<ACT:BotonTeclado RenderTransformOrigin="0.319,0.525" Margin="2,2,2,2" HorizontalAlignment="Stretch" Width="Auto" x:Name="botonN" texto="N" Grid.Column="5"/>
+			<ACT:BotonTeclado Margin="2,2,2,2" x:Name="botonM" texto="M" Width="Auto" HorizontalAlignment="Stretch" Grid.Column="6"/>
+		</Grid>
+	</Grid>
+</UserControl>

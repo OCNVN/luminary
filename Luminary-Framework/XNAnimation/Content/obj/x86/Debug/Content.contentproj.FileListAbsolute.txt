@@ -1,0 +1,7 @@
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimation\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\XNAnimation\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimation\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimation\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\XNAnimation\Content\obj\x86\Debug\ResolveAssemblyReference.cache

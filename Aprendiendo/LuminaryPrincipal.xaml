@@ -1,0 +1,51 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:LuminaryFramework="clr-namespace:LuminaryFramework;assembly=LuminaryFramework" 
+	xmlns:Aprendiendo="clr-namespace:Aprendiendo" 
+	x:Class="Aprendiendo.LuminaryPrincipal"
+	x:Name="Window"
+	Title="Luminary-beta"
+    Closed="Window_Closed"
+	Width="940" Height="626" BorderBrush="#FF000000" BorderThickness="0,0,0,0" WindowStyle="SingleBorderWindow" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" WindowStartupLocation="CenterScreen" >
+	
+	<Window.Background>
+		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+			<GradientStop Color="#FF000000" Offset="0"/>
+			<GradientStop Color="#FF2C2C2C" Offset="1"/>
+		</LinearGradientBrush>
+	</Window.Background>
+
+	<Grid Width="Auto" Height="Auto" x:Name="grillaPrincipal">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="*"/>
+		</Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+			<RowDefinition Height="70px"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+        <Aprendiendo:MenuBar Margin="10,10,10,0" x:Name="menuBar" VerticalAlignment="Top" VocabularioClick="Vocabulario_Click" AdivinaClick="Adivina_Click" ChatClick="Chat_Click" InterpreteClick="Interprete_Click" ConfiguracionClick="Configuracion_Click"/>
+        <Border Margin="10,61,10,0" Grid.Row="1" Height="40" VerticalAlignment="Top">
+        	<Border.OpacityMask>
+        		<LinearGradientBrush StartPoint="0,0" EndPoint="0,03">
+        			<GradientStop Offset=".0" Color="Transparent"/>
+        			<GradientStop Offset=".9" Color="White"/>
+        		</LinearGradientBrush>
+        	</Border.OpacityMask>
+        	<Border.RenderTransform>
+        		<TransformGroup>
+        			<ScaleTransform ScaleX="1" ScaleY="-1"/>
+        			<SkewTransform AngleX="0" AngleY="0"/>
+        			<RotateTransform Angle="0"/>
+        			<TranslateTransform X="0" Y="-39.277"/>
+        		</TransformGroup>
+        	</Border.RenderTransform>
+        	<Border.Background>
+        		<VisualBrush Visual="{Binding ElementName=menuBar}"/>
+        	</Border.Background>
+        </Border>
+        <Grid x:Name="grillaDisplay" Margin="10,0" Grid.Row="1">
+        	<Aprendiendo:ControlVocabulario x:Name="controlVocabulario"/>
+        </Grid>
+    </Grid>
+</Window>

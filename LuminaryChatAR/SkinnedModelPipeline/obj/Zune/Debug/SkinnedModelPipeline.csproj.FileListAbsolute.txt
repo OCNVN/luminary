@@ -1,0 +1,10 @@
+C:\Users\OCNVN\Documents\Universidad\Tesis\GoblinXNAv3.5\tutorials\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\GoblinXNAv3.5\tutorials\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\GoblinXNAv3.5\tutorials\SkinnedModelPipeline\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\GoblinXNAv3.5\tutorials\SkinnedModelPipeline\obj\Zune\Debug\SkinnedModelPipeline.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\GoblinXNAv3.5\tutorials\SkinnedModelPipeline\obj\Zune\Debug\SkinnedModelPipeline.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\SkinnedModelPipeline\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\SkinnedModelPipeline\obj\Zune\Debug\SkinnedModelPipeline.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\SkinnedModelPipeline\obj\Zune\Debug\SkinnedModelPipeline.pdb

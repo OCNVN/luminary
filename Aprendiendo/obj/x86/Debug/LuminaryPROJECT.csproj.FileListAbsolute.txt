@@ -1,0 +1,260 @@
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Controles3D.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\menu\MenuBar.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonEstilo.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Configuracion.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonTeclado.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\App.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlAdivina.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Controles3D.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\menu\MenuBar.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonEstilo.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPrincipal.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Configuracion.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlChat.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonTeclado.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlVocabulario.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\Teclado.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\App.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo_MarkupCompile.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo_MarkupCompile.lref
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Aprendiendo.exe
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Aprendiendo.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\AvalonDock.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\LuminaryFramework.exe
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\LuminaryFramework.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.xml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlAdivina.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPrincipal.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlChat.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlVocabulario.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\Teclado.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.g.resources
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.Properties.Resources.resources
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPROJECT.csproj.GenerateResource.Cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.exe
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Fuentes\Arial.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Fuentes\Calibri.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\Alicia.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Efectos\AnimatedModel.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\o_ada_o_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\Hair_diffus_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\eye_diffuse_0.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.exe
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Fuentes\Arial.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Fuentes\Calibri.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\Alicia.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Efectos\AnimatedModel.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\diffuse_0.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\o_ada_o_0.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\Hair_diffus_0.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\eye_diffuse_0.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Aprendiendo.exe
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Aprendiendo.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Arcane.Xna.Presentation.dll
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\AvalonDock.dll
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\LuminaryFramework.exe
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.dll
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\LuminaryFramework.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.xml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Controles3D.baml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\menu\MenuBar.baml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonEstilo.baml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Configuracion.baml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonTeclado.baml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\App.baml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlAdivina.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Controles3D.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\menu\MenuBar.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonEstilo.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPrincipal.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Configuracion.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlChat.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonTeclado.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlVocabulario.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\Teclado.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\App.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo_MarkupCompile.cache
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo_MarkupCompile.lref
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlAdivina.baml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPrincipal.baml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlChat.baml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlVocabulario.baml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\Teclado.baml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.g.resources
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.Properties.Resources.resources
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPROJECT.csproj.GenerateResource.Cache
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.exe
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Fuentes\Arial.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Fuentes\Calibri.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\Alicia.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Efectos\AnimatedModel.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\diffuse_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\o_ada_o_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\Hair_diffus_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\eye_diffuse_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Aprendiendo.exe
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Aprendiendo.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\AvalonDock.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\LuminaryFramework.exe
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\LuminaryFramework.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.xml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Controles3D.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\menu\MenuBar.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonEstilo.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Configuracion.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonTeclado.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\App.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlAdivina.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Controles3D.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\menu\MenuBar.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonEstilo.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPrincipal.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Configuracion.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlChat.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonTeclado.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlVocabulario.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\Teclado.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\App.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo_MarkupCompile.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo_MarkupCompile.lref
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlAdivina.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPrincipal.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlChat.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlVocabulario.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\Teclado.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.g.resources
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.Properties.Resources.resources
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPROJECT.csproj.GenerateResource.Cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Alicia.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\SkinnedModel.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\diffuse.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\eye_diffuse.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\GolubkHairMask.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Hair_diffus.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\o_ada_o.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\spec_lev.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\DIFFUSE_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\O_ADA_O_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\WindowsGame3.exe
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\DShowNET.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\GoblinXNA.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Nuclex.Fonts.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\DirectX.Capture.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\NewtonWrapper.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\GoblinXNA.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\GoblinXNA.xml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlInterpreteCliente.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlInterpreteCliente.g.cs
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Hair_diffus_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\eye_diffuse_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminarySplash.baml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminarySplash.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.exe
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Fuentes\Arial.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Fuentes\Calibri.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\Alicia.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Efectos\AnimatedModel.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\diffuse_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\o_ada_o_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\Hair_diffus_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Modelos\eye_diffuse_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Alicia.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\SkinnedModel.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\diffuse.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\eye_diffuse.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\GolubkHairMask.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Hair_diffus.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\o_ada_o.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\spec_lev.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\DIFFUSE_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\O_ADA_O_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\Hair_diffus_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Content\eye_diffuse_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Aprendiendo.exe
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Aprendiendo.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\AvalonDock.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\LuminaryFramework.exe
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\DShowNET.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\GoblinXNA.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Nuclex.Fonts.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\DirectX.Capture.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\NewtonWrapper.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\GoblinXNA.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\GoblinXNA.xml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\LuminaryFramework.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\XNAnimation.xml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Controles3D.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\menu\MenuBar.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonEstilo.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Configuracion.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonTeclado.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlInterpreteCliente.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminarySplash.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\App.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlAdivina.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Controles3D.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\menu\MenuBar.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonEstilo.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPrincipal.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Configuracion.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlChat.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\BotonTeclado.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlInterpreteCliente.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlVocabulario.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\Teclado.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminarySplash.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\App.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo_MarkupCompile.cache
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo_MarkupCompile.lref
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlAdivina.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPrincipal.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlChat.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\ControlVocabulario.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\controles\teclado\Teclado.baml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.g.resources
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\Aprendiendo.Properties.Resources.resources
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Aprendiendo\obj\x86\Debug\LuminaryPROJECT.csproj.GenerateResource.Cache

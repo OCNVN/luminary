@@ -1,0 +1,321 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:AvalonDock="clr-namespace:AvalonDock;assembly=AvalonDock" 
+    xmlns:LuminaryFramework="clr-namespace:LuminaryFramework;assembly=LuminaryFramework" 
+    xmlns:local="clr-namespace:Aprendiendo" 
+    xmlns:Aprendiendo_controles_teclado="clr-namespace:Aprendiendo.controles.teclado"
+    xmlns:Aprendiendo_chat="clr-namespace:Aprendiendo.luminary.chat"
+	x:Class="Aprendiendo.ControlChat"
+	x:Name="UserControl">
+    <UserControl.Resources>
+        <Aprendiendo_chat:AdministradorEstaConectadoModalConverter x:Key="administradorEstaConectadoModalConverter" />
+		<Aprendiendo_chat:AdministradorEstaConectadoEfectoBlurConverter x:Key="administradorEstaConectadoEfectoBlurConverter" />
+		<Style x:Key="TabItemFocusVisual">
+			<Setter Property="Control.Template">
+				<Setter.Value>
+					<ControlTemplate>
+						<Rectangle Stroke="Black" StrokeDashArray="1 2" StrokeThickness="1" Margin="3,3,3,1" SnapsToDevicePixels="true"/>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<SolidColorBrush x:Key="TabControlNormalBorderBrush" Color="#8C8E94"/>
+		<LinearGradientBrush x:Key="ButtonNormalBackground" EndPoint="0,1" StartPoint="0,0">
+			<GradientStop Color="#F3F3F3" Offset="0"/>
+			<GradientStop Color="#EBEBEB" Offset="0.5"/>
+			<GradientStop Color="#DDDDDD" Offset="0.5"/>
+			<GradientStop Color="#CDCDCD" Offset="1"/>
+		</LinearGradientBrush>
+		<LinearGradientBrush x:Key="TabItemHotBackground" EndPoint="0,1" StartPoint="0,0">
+			<GradientStop Color="#EAF6FD" Offset="0.15"/>
+			<GradientStop Color="#D9F0FC" Offset=".5"/>
+			<GradientStop Color="#BEE6FD" Offset=".5"/>
+			<GradientStop Color="#A7D9F5" Offset="1"/>
+		</LinearGradientBrush>
+		<SolidColorBrush x:Key="TabItemSelectedBackground" Color="#F9F9F9"/>
+		<SolidColorBrush x:Key="TabItemHotBorderBrush" Color="#3C7FB1"/>
+		<SolidColorBrush x:Key="TabItemDisabledBackground" Color="#F4F4F4"/>
+		<SolidColorBrush x:Key="TabItemDisabledBorderBrush" Color="#FFC9C7BA"/>
+		<Style x:Key="EstiloTabControlesEntrada" TargetType="{x:Type TabItem}">
+			<Setter Property="FocusVisualStyle" Value="{StaticResource TabItemFocusVisual}"/>
+			<Setter Property="Foreground" Value="Black"/>
+			<Setter Property="Padding" Value="6,1,6,1"/>
+			<Setter Property="BorderBrush" Value="{StaticResource TabControlNormalBorderBrush}"/>
+			<Setter Property="Background" Value="{StaticResource ButtonNormalBackground}"/>
+			<Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+			<Setter Property="VerticalContentAlignment" Value="Stretch"/>
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type TabItem}">
+						<Grid SnapsToDevicePixels="true">
+							<Border x:Name="Bd" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1,1,1,0" Padding="{TemplateBinding Padding}">
+								<Border.Background>
+									<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+										<GradientStop Color="#FF3B3B3B" Offset="0"/>
+										<GradientStop Color="#FF636363" Offset="1"/>
+									</LinearGradientBrush>
+								</Border.Background>
+								<Label Foreground="White" FontFamily="Calibri" FontSize="13.333">
+									<ContentPresenter x:Name="Content" HorizontalAlignment="{Binding HorizontalContentAlignment, RelativeSource={RelativeSource AncestorType={x:Type ItemsControl}}}" VerticalAlignment="{Binding VerticalContentAlignment, RelativeSource={RelativeSource AncestorType={x:Type ItemsControl}}}" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" ContentSource="Header" RecognizesAccessKey="True"/>
+								</Label>
+							</Border>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsMouseOver" Value="true">
+								<Setter Property="Background" TargetName="Bd">
+									<Setter.Value>
+										<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+											<GradientStop Color="#FF3B3B3B" Offset="0"/>
+											<GradientStop Color="#FF044070" Offset="1"/>
+										</LinearGradientBrush>
+									</Setter.Value>
+								</Setter>
+							</Trigger>
+							<Trigger Property="IsSelected" Value="true">
+								<Setter Property="Panel.ZIndex" Value="1"/>
+								<Setter Property="Background" TargetName="Bd">
+									<Setter.Value>
+										<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+											<GradientStop Color="#FFC2C2C2" Offset="0"/>
+											<GradientStop Color="#FF888888" Offset="1"/>
+										</LinearGradientBrush>
+									</Setter.Value>
+								</Setter>
+								<Setter Property="BorderThickness" TargetName="Bd" Value="0"/>
+							</Trigger>
+							<MultiTrigger>
+								<MultiTrigger.Conditions>
+									<Condition Property="IsSelected" Value="false"/>
+									<Condition Property="IsMouseOver" Value="true"/>
+								</MultiTrigger.Conditions>
+								<Setter Property="BorderBrush" TargetName="Bd" Value="{StaticResource TabItemHotBorderBrush}"/>
+							</MultiTrigger>
+							<Trigger Property="TabStripPlacement" Value="Bottom">
+								<Setter Property="BorderThickness" TargetName="Bd" Value="1,0,1,1"/>
+							</Trigger>
+							<Trigger Property="TabStripPlacement" Value="Left">
+								<Setter Property="BorderThickness" TargetName="Bd" Value="1,1,0,1"/>
+							</Trigger>
+							<Trigger Property="TabStripPlacement" Value="Right">
+								<Setter Property="BorderThickness" TargetName="Bd" Value="0,1,1,1"/>
+							</Trigger>
+							<MultiTrigger>
+								<MultiTrigger.Conditions>
+									<Condition Property="IsSelected" Value="true"/>
+									<Condition Property="TabStripPlacement" Value="Top"/>
+								</MultiTrigger.Conditions>
+								<Setter Property="Margin" Value="-2,-2,-2,-1"/>
+								<Setter Property="Margin" TargetName="Content" Value="0,0,0,1"/>
+							</MultiTrigger>
+							<MultiTrigger>
+								<MultiTrigger.Conditions>
+									<Condition Property="IsSelected" Value="true"/>
+									<Condition Property="TabStripPlacement" Value="Bottom"/>
+								</MultiTrigger.Conditions>
+								<Setter Property="Margin" Value="-2,-1,-2,-2"/>
+								<Setter Property="Margin" TargetName="Content" Value="0,1,0,0"/>
+							</MultiTrigger>
+							<MultiTrigger>
+								<MultiTrigger.Conditions>
+									<Condition Property="IsSelected" Value="true"/>
+									<Condition Property="TabStripPlacement" Value="Left"/>
+								</MultiTrigger.Conditions>
+								<Setter Property="Margin" Value="-2,-2,-1,-2"/>
+								<Setter Property="Margin" TargetName="Content" Value="0,0,1,0"/>
+							</MultiTrigger>
+							<MultiTrigger>
+								<MultiTrigger.Conditions>
+									<Condition Property="IsSelected" Value="true"/>
+									<Condition Property="TabStripPlacement" Value="Right"/>
+								</MultiTrigger.Conditions>
+								<Setter Property="Margin" Value="-1,-2,-2,-2"/>
+								<Setter Property="Margin" TargetName="Content" Value="1,0,0,0"/>
+							</MultiTrigger>
+							<Trigger Property="IsEnabled" Value="false">
+								<Setter Property="Background" TargetName="Bd" Value="{StaticResource TabItemDisabledBackground}"/>
+								<Setter Property="BorderBrush" TargetName="Bd" Value="{StaticResource TabItemDisabledBorderBrush}"/>
+								<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+							</Trigger>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="EstiloTabControlControles" TargetType="{x:Type TabControl}">
+			<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+			<Setter Property="Padding" Value="4,4,4,4"/>
+			<Setter Property="BorderThickness" Value="1"/>
+			<Setter Property="BorderBrush" Value="{StaticResource TabControlNormalBorderBrush}"/>
+			<Setter Property="Background" Value="#F9F9F9"/>
+			<Setter Property="HorizontalContentAlignment" Value="Center"/>
+			<Setter Property="VerticalContentAlignment" Value="Center"/>
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type TabControl}">
+						<Grid ClipToBounds="true" SnapsToDevicePixels="true" KeyboardNavigation.TabNavigation="Local">
+							<Grid.ColumnDefinitions>
+								<ColumnDefinition x:Name="ColumnDefinition0"/>
+								<ColumnDefinition x:Name="ColumnDefinition1" Width="0"/>
+							</Grid.ColumnDefinitions>
+							<Grid.RowDefinitions>
+								<RowDefinition x:Name="RowDefinition0" Height="Auto"/>
+								<RowDefinition x:Name="RowDefinition1" Height="*"/>
+							</Grid.RowDefinitions>
+							<TabPanel x:Name="HeaderPanel" Margin="2,2,2,0" IsItemsHost="true" Panel.ZIndex="1" Grid.Column="0" Grid.Row="0" KeyboardNavigation.TabIndex="1"/>
+							<Border x:Name="ContentPanel" BorderThickness="{TemplateBinding BorderThickness}" Grid.Column="0" Grid.Row="1" KeyboardNavigation.DirectionalNavigation="Contained" KeyboardNavigation.TabIndex="2" KeyboardNavigation.TabNavigation="Local">
+								<Border.Background>
+									<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+										<GradientStop Color="#FF888888" Offset="0"/>
+										<GradientStop Color="#00888888" Offset="1"/>
+									</LinearGradientBrush>
+								</Border.Background>
+								<Border.BorderBrush>
+									<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+										<GradientStop Color="#FF888888" Offset="0"/>
+										<GradientStop Color="#00888888" Offset="1"/>
+									</LinearGradientBrush>
+								</Border.BorderBrush>
+								<ContentPresenter x:Name="PART_SelectedContentHost" Margin="{TemplateBinding Padding}" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" ContentSource="SelectedContent"/>
+							</Border>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="TabStripPlacement" Value="Bottom">
+								<Setter Property="Grid.Row" TargetName="HeaderPanel" Value="1"/>
+								<Setter Property="Grid.Row" TargetName="ContentPanel" Value="0"/>
+								<Setter Property="Height" TargetName="RowDefinition0" Value="*"/>
+								<Setter Property="Height" TargetName="RowDefinition1" Value="Auto"/>
+								<Setter Property="Margin" TargetName="HeaderPanel" Value="2,0,2,2"/>
+							</Trigger>
+							<Trigger Property="TabStripPlacement" Value="Left">
+								<Setter Property="Grid.Row" TargetName="HeaderPanel" Value="0"/>
+								<Setter Property="Grid.Row" TargetName="ContentPanel" Value="0"/>
+								<Setter Property="Grid.Column" TargetName="HeaderPanel" Value="0"/>
+								<Setter Property="Grid.Column" TargetName="ContentPanel" Value="1"/>
+								<Setter Property="Width" TargetName="ColumnDefinition0" Value="Auto"/>
+								<Setter Property="Width" TargetName="ColumnDefinition1" Value="*"/>
+								<Setter Property="Height" TargetName="RowDefinition0" Value="*"/>
+								<Setter Property="Height" TargetName="RowDefinition1" Value="0"/>
+								<Setter Property="Margin" TargetName="HeaderPanel" Value="2,2,0,2"/>
+							</Trigger>
+							<Trigger Property="TabStripPlacement" Value="Right">
+								<Setter Property="Grid.Row" TargetName="HeaderPanel" Value="0"/>
+								<Setter Property="Grid.Row" TargetName="ContentPanel" Value="0"/>
+								<Setter Property="Grid.Column" TargetName="HeaderPanel" Value="1"/>
+								<Setter Property="Grid.Column" TargetName="ContentPanel" Value="0"/>
+								<Setter Property="Width" TargetName="ColumnDefinition0" Value="*"/>
+								<Setter Property="Width" TargetName="ColumnDefinition1" Value="Auto"/>
+								<Setter Property="Height" TargetName="RowDefinition0" Value="*"/>
+								<Setter Property="Height" TargetName="RowDefinition1" Value="0"/>
+								<Setter Property="Margin" TargetName="HeaderPanel" Value="0,2,2,2"/>
+							</Trigger>
+							<Trigger Property="IsEnabled" Value="false">
+								<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+							</Trigger>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+    </UserControl.Resources>
+    <Grid x:Name="LayoutRoot" d:IsEffectDisabled="True">
+		<Grid.Effect>
+			<BlurEffect x:Name="efectoEstaConectado" Radius="{Binding Path=estaConectado, Converter={StaticResource administradorEstaConectadoEfectoBlurConverter}}"/>
+		</Grid.Effect>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="0.5*"/>
+			<ColumnDefinition Width="0.5*"/>
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="*"/>
+			<RowDefinition Height="150px"/>
+		</Grid.RowDefinitions>
+		<Grid x:Name="grillaControlesEntrada" Margin="0" Grid.ColumnSpan="2" Grid.Row="1">
+			<TabControl Margin="0" Style="{DynamicResource EstiloTabControlControles}">
+				<TabItem Header="Teclado" Style="{DynamicResource EstiloTabControlesEntrada}">
+					<Grid>
+						<Aprendiendo_controles_teclado:Teclado Margin="0" x:Name="teclado"
+							QClick="btnTeclado_Click" WClick="btnTeclado_Click" EClick="btnTeclado_Click" RClick="btnTeclado_Click"
+							TClick="btnTeclado_Click" YClick="btnTeclado_Click" UClick="btnTeclado_Click" IClick="btnTeclado_Click"
+							OClick="btnTeclado_Click" PClick="btnTeclado_Click" AClick="btnTeclado_Click" SClick="btnTeclado_Click"
+							DClick="btnTeclado_Click" FClick="btnTeclado_Click" GClick="btnTeclado_Click" HClick="btnTeclado_Click"
+							JClick="btnTeclado_Click" KClick="btnTeclado_Click" LClick="btnTeclado_Click" ZClick="btnTeclado_Click"
+							XClick="btnTeclado_Click" CClick="btnTeclado_Click" VClick="btnTeclado_Click" BClick="btnTeclado_Click"
+							NClick="btnTeclado_Click" MClick="btnTeclado_Click" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+					</Grid>
+				</TabItem>
+				<TabItem Header="Texto" Style="{DynamicResource EstiloTabControlesEntrada}">
+					<Grid>
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="*"/>
+							<ColumnDefinition Width="60px"/>
+						</Grid.ColumnDefinitions>
+						<TextBox x:Name="txtMensaje" Margin="8,8,2.883,8" TextWrapping="Wrap" Background="#FF1C1C1C" Foreground="White"/>
+						<Button x:Name="btnEnviar" Margin="1.117,8,8,8" Content="Enviar" Grid.Column="1" Click="btnEnviar_Click"/>
+					</Grid>
+				</TabItem>
+				<TabItem Header="Reconocimiento de texto" Style="{DynamicResource EstiloTabControlesEntrada}">
+					<Grid>
+						<TextBox Margin="8" TextWrapping="Wrap" Background="#FF1C1C1C" Foreground="White"/>
+					</Grid>
+				</TabItem>
+			</TabControl>
+		</Grid>
+		<Grid x:Name="grillaYo" Margin="0">
+			<Grid.RowDefinitions>
+	    		<RowDefinition Height="25px"/>
+	    		<RowDefinition Height="*"/>
+	    		<RowDefinition MaxHeight="150" Height="Auto"/>
+    		</Grid.RowDefinitions>
+			<LuminaryFramework:Luminary x:Name="modelo3D" Margin="0,2,5,-2" Grid.Row="1" d:LayoutOverrides="GridBox, VerticalMargin">
+				<Grid x:Name="yoConectadoModal" Background="#7F000000" Margin="0" Visibility="{Binding Path=estaConectado, Converter={StaticResource administradorEstaConectadoModalConverter}}">
+					<TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Foreground="White">Desconectado</TextBlock>
+				</Grid>
+			</LuminaryFramework:Luminary>
+			<Border BorderBrush="#FF292929" Margin="0,0,5,0" BorderThickness="0,0,0,1" CornerRadius="5,5,0,0" Padding="0">
+				<Border.Background>
+					<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+						<GradientStop Color="#FFC2C2C2" Offset="0"/>
+						<GradientStop Color="#FF888888" Offset="1"/>
+					</LinearGradientBrush>
+				</Border.Background>
+			</Border>
+			<Label HorizontalAlignment="Left" Margin="10,0,0,0" Width="Auto" Content="Yo" FontFamily="Calibri" FontSize="14" RenderTransformOrigin="0.253,0.429" FontWeight="Normal" Foreground="#FFFFFFFF" VerticalAlignment="Center" Padding="0"/>
+			<Expander x:Name="expanderControl3D" Margin="0,0,5,0" Header="Controlar vista" Grid.Row="2" MaxHeight="150" Style="{DynamicResource EstiloExpander}" d:LayoutOverrides="Height">
+				<Grid>
+					<local:Controles3D Margin="0" Height="Auto" VerticalAlignment="Stretch" x:Name="controles3D" BorderThickness="0" BorderBrush="#FF000000"/>
+				</Grid>
+			</Expander>
+		</Grid>
+		<Grid x:Name="grillaElOtro" Margin="0" Grid.Column="1">
+			<Grid.RowDefinitions>
+				<RowDefinition Height="25px"/>
+				<RowDefinition Height="*"/>
+				<RowDefinition MaxHeight="150" Height="Auto"/>
+			</Grid.RowDefinitions>
+			<LuminaryFramework:Luminary x:Name="modelo3D2" Margin="5,2,0,-2" Grid.Row="1" d:LayoutOverrides="GridBox">
+				<Grid x:Name="elOtroConectadoModal" Background="#7F000000" Margin="0" Visibility="{Binding Path=estaConectado, Converter={StaticResource administradorEstaConectadoModalConverter}}">
+					<TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Foreground="White">Desconectado</TextBlock>
+				</Grid>
+			</LuminaryFramework:Luminary>
+			<Border BorderBrush="#FF292929" Margin="5,0,0,0" BorderThickness="0,0,0,1" CornerRadius="5,5,0,0" Padding="0">
+				<Border.Background>
+					<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+						<GradientStop Color="#FFC2C2C2" Offset="0"/>
+						<GradientStop Color="#FF888888" Offset="1"/>
+					</LinearGradientBrush>
+				</Border.Background>
+			</Border>
+			<Label HorizontalAlignment="Left" Margin="15,0,0,0" Width="Auto" Content="El otro" FontFamily="Calibri" FontSize="14" RenderTransformOrigin="0.253,0.429" FontWeight="Normal" Foreground="#FFFFFFFF" VerticalAlignment="Center" Padding="0"/>
+			<Expander x:Name="expanderControl3D1" Margin="5,0,0,0" Header="Controlar vista" Grid.Row="2" MaxHeight="150" Style="{DynamicResource EstiloExpander}" d:LayoutOverrides="Height">
+				<Grid>
+					<local:Controles3D Margin="0" Height="Auto" VerticalAlignment="Stretch" x:Name="controles3D1" BorderThickness="0" BorderBrush="#FF000000"/>
+				</Grid>
+			</Expander>
+		</Grid>
+		<Grid x:Name="modal" Margin="0" Grid.ColumnSpan="2" Grid.RowSpan="2" Background="#7F000000" Visibility="{Binding Path=estaConectado, Converter={StaticResource administradorEstaConectadoModalConverter}}" d:IsHidden="True"/>
+	</Grid>
+</UserControl>

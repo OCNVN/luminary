@@ -1,0 +1,5 @@
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\Content\obj\x86\Debug\ResolveAssemblyReference.cache

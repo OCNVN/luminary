@@ -1,0 +1,120 @@
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\DShowNET.dll
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Alicia.xnb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\SkinnedModel.xnb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\diffuse.xnb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\eye_diffuse.xnb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\GolubkHairMask.xnb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Hair_diffus.xnb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\o_ada_o.xnb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\spec_lev.xnb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\diffuse_0.xnb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\o_ada_o_0.xnb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.dll
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\DirectX.Capture.dll
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\NewtonWrapper.dll
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Nuclex.Fonts.dll
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.pdb
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.xml
+C:\Users\OCNVN\Documents\Visual Studio 2008\Projects\LuminaryChatAR\WindowsGame3\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Alicia.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\SkinnedModel.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\diffuse.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\eye_diffuse.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\GolubkHairMask.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Hair_diffus.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\o_ada_o.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\spec_lev.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\diffuse_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\o_ada_o_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\DShowNET.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\DirectX.Capture.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\NewtonWrapper.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Nuclex.Fonts.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.xml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Chat AR\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Alicia.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\SkinnedModel.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\diffuse.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\eye_diffuse.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\GolubkHairMask.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Hair_diffus.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\o_ada_o.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\spec_lev.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\DIFFUSE_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\O_ADA_O_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\DShowNET.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\DirectX.Capture.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\NewtonWrapper.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Nuclex.Fonts.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.xml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Hair_diffus_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\eye_diffuse_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Alicia.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\SkinnedModel.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\diffuse.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\eye_diffuse.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\GolubkHairMask.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Hair_diffus.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\o_ada_o.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\spec_lev.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\DIFFUSE_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\O_ADA_O_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\Hair_diffus_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Content\eye_diffuse_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\DShowNET.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\DirectX.Capture.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\NewtonWrapper.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Nuclex.Fonts.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\GoblinXNA.xml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\LuminaryChatAR\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb

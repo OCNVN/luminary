@@ -1,0 +1,12 @@
+Content\Alicia.xnb
+Content\SkinnedModel.xnb
+Content\diffuse.xnb
+Content\eye_diffuse.xnb
+Content\GolubkHairMask.xnb
+Content\Hair_diffus.xnb
+Content\o_ada_o.xnb
+Content\spec_lev.xnb
+Content\DIFFUSE_0.xnb
+Content\O_ADA_O_0.xnb
+Content\Hair_diffus_0.xnb
+Content\eye_diffuse_0.xnb
