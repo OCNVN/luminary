@@ -1,0 +1,27 @@
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimationPipeline\bin\Xbox 360\Debug\Content\SkinnedModelEffect.xnb
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimationPipeline.dll
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimationPipeline.pdb
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimation.dll
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimation.pdb
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimation.xml
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimationPipeline\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimationPipeline\obj\Xbox 360\Debug\XNAnimationPipeline.dll
+C:\IA 29-DIC-2009\xnanimation-11975\XNAnimation\XNAnimationPipeline\obj\Xbox 360\Debug\XNAnimationPipeline.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\Content\SkinnedModelEffect.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimationPipeline.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimationPipeline.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimation.xml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimationPipeline\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimationPipeline\obj\Xbox 360\Debug\XNAnimationPipeline.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\XNAnimationPipeline\obj\Xbox 360\Debug\XNAnimationPipeline.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\Content\SkinnedModelEffect.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimationPipeline.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimationPipeline.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimationPipeline\bin\Xbox 360\Debug\XNAnimation.xml
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimationPipeline\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimationPipeline\obj\Xbox 360\Debug\XNAnimationPipeline.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\XNAnimationPipeline\obj\Xbox 360\Debug\XNAnimationPipeline.pdb

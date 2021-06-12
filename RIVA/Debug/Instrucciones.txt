@@ -1,0 +1,5 @@
+Ejecutar setup.exe
+Se instalaran los paquetes dependientes en caso de que no se encuentren en el equipo
+-	Net Framework 3.5
+-	Windows Installer 3.1
+-	XNA Framework redistributable 3.1

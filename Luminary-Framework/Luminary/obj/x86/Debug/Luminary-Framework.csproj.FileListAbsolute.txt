@@ -1,0 +1,21 @@
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\teapot.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\PlayerMarine.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.exe
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.pdb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.exe
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.pdb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\eye_diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\Hair_diffus_0.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.xml
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Arial.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Calibri.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Alicia.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\diffuse_0.xnb

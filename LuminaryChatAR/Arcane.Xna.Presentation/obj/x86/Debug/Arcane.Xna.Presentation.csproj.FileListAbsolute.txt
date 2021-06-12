@@ -1,0 +1,55 @@
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\obj\x86\Debug\GameCanvas.baml
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\obj\x86\Debug\GameCanvas.g.cs
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation_MarkupCompile.cache
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.g.resources
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation_MarkupCompile.lref
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.Properties.Resources.resources
+C:\Users\Valentin\Live\RenegadePixels\Arborescence Projet\5-Implementation [IMP]\Projet Arcane\ArcaneEngine\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.csproj.GenerateResource.Cache
+C:\Users\Valentin\Documents\Visual Studio 2008\Projects\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\Valentin\Documents\Visual Studio 2008\Projects\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\Valentin\Documents\Visual Studio 2008\Projects\Arcane.Xna.Presentation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Valentin\Documents\Visual Studio 2008\Projects\Arcane.Xna.Presentation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Valentin\Documents\Visual Studio 2008\Projects\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.Properties.Resources.resources
+C:\Users\Valentin\Documents\Visual Studio 2008\Projects\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.csproj.GenerateResource.Cache
+C:\Users\Valentin\Documents\Visual Studio 2008\Projects\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\Valentin\Documents\Visual Studio 2008\Projects\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\Valentin\Live\Travail\Livres\Articles\Articles Xna\Annexes\WPF et Xna\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\Valentin\Live\Travail\Livres\Articles\Articles Xna\Annexes\WPF et Xna\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\Valentin\Live\Travail\Livres\Articles\Articles Xna\Annexes\WPF et Xna\Arcane.Xna.Presentation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Valentin\Live\Travail\Livres\Articles\Articles Xna\Annexes\WPF et Xna\Arcane.Xna.Presentation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Valentin\Live\Travail\Livres\Articles\Articles Xna\Annexes\WPF et Xna\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.Properties.Resources.resources
+C:\Users\Valentin\Live\Travail\Livres\Articles\Articles Xna\Annexes\WPF et Xna\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.csproj.GenerateResource.Cache
+C:\Users\Valentin\Live\Travail\Livres\Articles\Articles Xna\Annexes\WPF et Xna\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\Valentin\Live\Travail\Livres\Articles\Articles Xna\Annexes\WPF et Xna\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\OCNVN\Desktop\Carlos IA 19-Nov-2009\7026.XnaInWpf\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\OCNVN\Desktop\Carlos IA 19-Nov-2009\7026.XnaInWpf\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.Properties.Resources.resources
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.csproj.GenerateResource.Cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.Properties.Resources.resources
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.csproj.GenerateResource.Cache
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.dll
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.Properties.Resources.resources
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.csproj.GenerateResource.Cache
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.dll
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Arcane.Xna.Presentation\obj\x86\Debug\Arcane.Xna.Presentation.pdb

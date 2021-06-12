@@ -1,0 +1,159 @@
+C:\CarlosEstudiaXNA\Capitulo X\Luminary\Luminary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo X\Luminary\Luminary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CarlosEstudiaXNA\Capitulo X\Luminary\Luminary\bin\x86\Debug\Content\teapot.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary\Luminary\bin\x86\Debug\Luminary.exe
+C:\CarlosEstudiaXNA\Capitulo X\Luminary\Luminary\bin\x86\Debug\Luminary.pdb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary\Luminary\obj\x86\Debug\Luminary.exe
+C:\CarlosEstudiaXNA\Capitulo X\Luminary\Luminary\obj\x86\Debug\Luminary.pdb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary\Luminary\bin\x86\Debug\Content\PlayerMarine.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\teapot.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\PlayerMarine.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Arial.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Calibri.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Alicia.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\eye_diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\Hair_diffus_0.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.exe
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.pdb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.xml
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.exe
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.pdb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\Content\Efectos\AnimatedModel.xnb
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.dll
+C:\CarlosEstudiaXNA\Capitulo X\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Arial.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Calibri.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Alicia.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Efectos\AnimatedModel.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.exe
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.xml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.exe
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\AvalonDock.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\eye_diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Hair_diffus_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\o_ada_o_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\PlayerMarine.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Arial.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Calibri.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Alicia.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Efectos\AnimatedModel.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\eye_diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\Hair_diffus_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\o_ada_o_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Hair_diffus_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\eye_diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.exe
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\AvalonDock.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.xml
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.exe
+C:\CarlosEstudiaXNA\Capitulo XI\Respaldo 6\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Arial.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Calibri.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Alicia.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Efectos\AnimatedModel.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\diffuse_0.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\o_ada_o_0.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Hair_diffus_0.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\eye_diffuse_0.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.exe
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Arcane.Xna.Presentation.dll
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\AvalonDock.dll
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.dll
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.dll
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.xml
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.exe
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.pdb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb
+D:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Arial.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Calibri.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Alicia.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Efectos\AnimatedModel.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\diffuse_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\o_ada_o_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Hair_diffus_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\eye_diffuse_0.xnb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.exe
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.dll
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.xml
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.pdb
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.exe
+C:\Users\OCNVN\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\SkinnedModelEffect.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaDifusse.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Arial.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Fuentes\Calibri.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Alicia.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Efectos\AnimatedModel.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\diffuse_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\o_ada_o_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\Hair_diffus_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Content\Modelos\eye_diffuse_0.xnb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.exe
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\LuminaryFramework.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Arcane.Xna.Presentation.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.dll
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimation.xml
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\Arcane.Xna.Presentation.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\bin\x86\Debug\XNAnimationPipeline.pdb
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.exe
+C:\Users\Usuario\Documents\Universidad\Tesis\Unificacion\Aprendiendo\Luminary-Framework\Luminary\obj\x86\Debug\LuminaryFramework.pdb

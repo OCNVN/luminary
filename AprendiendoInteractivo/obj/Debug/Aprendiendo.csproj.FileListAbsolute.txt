@@ -1,0 +1,39 @@
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\ResolveAssemblyReference.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\App.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo_MarkupCompile.cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.g.resources
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.Properties.Resources.resources
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.csproj.GenerateResource.Cache
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Aprendiendo.exe
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Aprendiendo.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.exe
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo_MarkupCompile.lref
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Arcane.Xna.Presentation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Arcane.Xna.Presentation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\teapot.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\PlayerMarine.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\Texturas\AliciaDifusse.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\Texturas\AliciaSpecular.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\Fuentes\Arial.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\Fuentes\Calibri.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\Modelos\Alicia.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\Efectos\AnimatedModel.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\eye_diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\Modelos1\Alicia_3D_Max\Alicia 3D Model from Turbosquid\Alicia\Hair_diffus_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\Content\Modelos\diffuse_0.xnb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\LuminaryFramework.exe
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\XNAnimation.dll
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\LuminaryFramework.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\XNAnimation.pdb
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\bin\Debug\XNAnimation.xml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\LuminaryPrincipal.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\LuminaryPrincipal.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\ControlVocabulario.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\ControlVocabulario.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\controles\teclado\BotonTeclado.baml
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\controles\teclado\BotonTeclado.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\controles\teclado\Teclado.g.cs
+C:\CarlosEstudiaXNA\Capitulo XI\Aprendiendo\Aprendiendo\obj\Debug\controles\teclado\Teclado.baml
